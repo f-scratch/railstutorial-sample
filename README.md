@@ -37,7 +37,7 @@ $ git commit -m "Initial Commit"
 5. リポジトリとリモートブランチの設定を変更する。
 
 ```
-$ git remote add origin git@github.com:f-scratch/railstutorial-hello.git
+$ git remote add origin git@github.com:f-scratch/railstutorial-sample.git
 ```
 
 6. リポジトリにローカルブランチをアップロードする。
